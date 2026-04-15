@@ -1,4 +1,3 @@
-# AdrianJibajaMac
 ### Hola 👋, soy Adrian Jibaja
 
 Estudiante de **Administración de Sistemas Informáticos en Red
